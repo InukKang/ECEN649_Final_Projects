@@ -1,0 +1,7 @@
+numpy
+Pillow
+tqdm
+tabulate
+matplotlib
+ipython
+opencv-python
